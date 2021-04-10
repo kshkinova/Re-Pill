@@ -1,6 +1,6 @@
 # Re-Pill READ ME
 
-When you are prescribed medication by a Doctor, it is crucial that you complete the dosage cycle in order to ensure that you recover fully and quickly. Unfortunately forgetting to take your medication is something that we have all done. Failing to run the full course of medicine often results in a delayed recovery and leads to more suffering through the painful and annoying symptoms of illness. This has inspired us to create Re-Pill. With Re-Pill, you can automatically generate scheduling and reminders to take you medicine by simply uploading a photo of your prescription.
+When you are prescribed medication by a Doctor it is crucial that you complete the dosage cycle in order to ensure that you recover fully and quickly. Unfortunately forgetting to take your medication is something that we have all done. Failing to run the full course of medicine often results in a delayed recovery and leads to more suffering through the painful and annoying symptoms of illness. This has inspired us to create Re-Pill. With Re-Pill, you can automatically generate scheduling and reminders to take you medicine by simply uploading a photo of your prescription.
 
 # What it does
 
